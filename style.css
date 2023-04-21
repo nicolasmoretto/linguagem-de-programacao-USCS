@@ -1,10 +1,13 @@
-
 body{
-  width: 900px;
-  margin: 50px 0px 0px 220px;
+
+  height: 100%;
+  margin-right: 15%;
+  margin-left: 15%;
   background-color: #282a36;
-  /* FUNDO BRANCO NO MEIO COR:rgb(240, 240, 240); */
-} 
+  box-sizing: border-box;
+}
+
+
 #nome{
   padding: 3px;
   border: 10px solid #282a36; 
